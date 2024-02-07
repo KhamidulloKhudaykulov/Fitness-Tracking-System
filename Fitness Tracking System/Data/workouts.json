@@ -1,0 +1,27 @@
+[
+  {
+    "Id": 1,
+    "Name": "Incline Hammer Curls",
+    "IsActive": false
+  },
+  {
+    "Id": 2,
+    "Name": "Wide-grip barbell curl",
+    "IsActive": true
+  },
+  {
+    "Id": 3,
+    "Name": "EZ-bar spider curl",
+    "IsActive": true
+  },
+  {
+    "Id": 4,
+    "Name": "Biceps curl to shoulder press",
+    "IsActive": true
+  },
+  {
+    "Id": 5,
+    "Name": "Flexor Incline Dumbbell Curls",
+    "IsActive": false
+  }
+]
